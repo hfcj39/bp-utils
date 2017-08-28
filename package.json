@@ -1,0 +1,11 @@
+{
+  "name": "bp-utils",
+  "version": "0.0.1",
+  "private": true,
+  "description": "some personal utils for koa",
+  "author": "bingpo",
+  "dependencies": {
+    "koa-multer": "^1.0.2",
+    "moment": "^2.18.1"
+  }
+}
