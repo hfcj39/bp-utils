@@ -1,3 +1,9 @@
+
+# install
+```
+npm install github:hfcj39/bp-utils
+```
+
 瞎写几个函数平时自己用
 
 `matchHTML()` 去HTML标签
